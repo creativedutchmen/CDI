@@ -17,7 +17,6 @@
 		}
 		
 		/**
-		/**
 		 * Backup the current state of the Symphony database
 		 * This function can only be called from the Symphony backend, the CDI extension must be enabled and running in Database Synchronisation mode.
 		 * @param $mode The mode of backup: 'manual' or 'automatic'. This is used to determine which configuration setting should apply.
